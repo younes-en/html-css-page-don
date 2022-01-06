@@ -1,0 +1,13 @@
+body{
+    background-color: red;
+}
+div img{
+	position : absolute;
+	top : 50px;
+	left : 50px;
+	height : 100px;
+	width : 100px;
+}
+fieldset{
+    text-align: center;
+}
